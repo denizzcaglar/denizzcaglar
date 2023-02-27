@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm currently studying at Bilkent University. My department is computer science. I'm into math and philosophy. Playing tennis is my passion since childhood.
 
 <!--
 **denizzcaglar/denizzcaglar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
