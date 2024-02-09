@@ -1,4 +1,4 @@
-
+hi, I'm a freshman CS student who loves math and philosophy.
 
 <!--
 **denizzcaglar/denizzcaglar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
